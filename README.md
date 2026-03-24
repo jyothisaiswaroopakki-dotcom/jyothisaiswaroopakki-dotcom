@@ -3,7 +3,7 @@
 ## 🔗 Connect with Me
 - 📸 A glimpse into my personal side and [daily life](https://www.instagram.com/juz.only.me).
 - 💼 Turning [connections](https://www.linkedin.com/in/jyothi-sai-swaroop-akki) into collaborations and conversations into opportunities.
-- 📧 Sliding into [inboxes]((jyothisaiswaroop@gmail.com)) with ideas, ambition, and intent.
+- 📧 Sliding into [inboxes](mailto:jyothisaiswaroop@gmail.com) with ideas, ambition, and intent.
 
 
 
