@@ -1,9 +1,10 @@
 ## Hey Hiee, I'm Swaroop
 
 ## 🔗 Connect with Me
-- 📸 I love to post some music on: [Instagram](https://www.instagram.com/juz.only.me)
-- 💼 [LinkedIn](https://www.linkedin.com/in/jyothi-sai-swaroop-akki)
-- 📧 [Email](jyothisaiswaroop@gmail.com)
+- 📸 A glimpse into my personal side and [daily life](https://www.instagram.com/juz.only.me)
+- 💼 Turning [connections](https://www.linkedin.com/in/jyothi-sai-swaroop-akki) into collaborations and conversations into opportunities
+- 📧 Sliding into [inboxes]((jyothisaiswaroop@gmail.com)) with ideas, ambition, and intent.
+
 
 
 
