@@ -48,24 +48,18 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=jyothisaiswaroopakki-dotcom&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-##
-
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jyothisaiswaroopakki-dotcom/jyothisaiswaroopakki-dotcom/output/github-snake-dark.svg" />
-  <img src="https://raw.githubusercontent.com/jyothisaiswaroopakki-dotcom/jyothisaiswaroopakki-dotcom/output/github-snake.svg" alt="github snake animation" />
-</picture>
-
 ###
-
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=jyothisaiswaroopakki-dotcom.jyothisaiswaroopakki-dotcom&"  />
 </div>
 
 ###
+
+
+
+
 
