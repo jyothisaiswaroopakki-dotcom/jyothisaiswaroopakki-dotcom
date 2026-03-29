@@ -45,6 +45,17 @@
 
 ###
 
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jyothisaiswaroopakki-dotcom/jyothisaiswaroopakki-dotcom/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jyothisaiswaroopakki-dotcom/jyothisaiswaroopakki-dotcom/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/jyothisaiswaroopakki-dotcom/jyothisaiswaroopakki-dotcom/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  </picture>
+</div>
+
+
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 ---
