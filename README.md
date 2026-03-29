@@ -1,5 +1,8 @@
-###
+
 # Hey Hiee, I'm Swaroop
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3"/>
+</p>
 
 
 ## 🔗 Connect with Me
@@ -23,6 +26,9 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3"/>
+</p>
 
 ###
 
@@ -42,8 +48,9 @@
   <img src="https://streak-stats.demolab.com?user=jyothisaiswaroopakki-dotcom&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" /> <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jyothisaiswaroopakki-dotcom&radius=16&theme=arctic&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
-
-###
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3"/>
+</p>
 
 
 <div align="center">
@@ -55,6 +62,9 @@
 </div>
 
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3"/>
+</p>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
